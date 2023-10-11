@@ -1,0 +1,7 @@
+Create two folders at this level.  
+
+---audio-extract
+For each video placed here, corresponding audio file will be automatically created here
+
+---transcript
+For each audio file in audio-extract directory, corresponding transcription file will be automatically created here
