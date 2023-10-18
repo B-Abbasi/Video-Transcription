@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
-"""
-@author: burhan abbasi
-"""
+
+#@author: burhan abbasi
+
 
 class FilesInfo:
-  def getFileNames(self, path):
+  def getFileNames( path):
     # import OS module
     import os
 
